@@ -1,0 +1,14 @@
+C:\Users\DHA-KIETNGUYEN\Desktop\learning_dotnet\LinQPratice\bin\Debug\net7.0\LinQPratice.exe
+C:\Users\DHA-KIETNGUYEN\Desktop\learning_dotnet\LinQPratice\bin\Debug\net7.0\LinQPratice.deps.json
+C:\Users\DHA-KIETNGUYEN\Desktop\learning_dotnet\LinQPratice\bin\Debug\net7.0\LinQPratice.runtimeconfig.json
+C:\Users\DHA-KIETNGUYEN\Desktop\learning_dotnet\LinQPratice\bin\Debug\net7.0\LinQPratice.dll
+C:\Users\DHA-KIETNGUYEN\Desktop\learning_dotnet\LinQPratice\bin\Debug\net7.0\LinQPratice.pdb
+C:\Users\DHA-KIETNGUYEN\Desktop\learning_dotnet\LinQPratice\obj\Debug\net7.0\LinQPratice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DHA-KIETNGUYEN\Desktop\learning_dotnet\LinQPratice\obj\Debug\net7.0\LinQPratice.AssemblyInfoInputs.cache
+C:\Users\DHA-KIETNGUYEN\Desktop\learning_dotnet\LinQPratice\obj\Debug\net7.0\LinQPratice.AssemblyInfo.cs
+C:\Users\DHA-KIETNGUYEN\Desktop\learning_dotnet\LinQPratice\obj\Debug\net7.0\LinQPratice.csproj.CoreCompileInputs.cache
+C:\Users\DHA-KIETNGUYEN\Desktop\learning_dotnet\LinQPratice\obj\Debug\net7.0\LinQPratice.dll
+C:\Users\DHA-KIETNGUYEN\Desktop\learning_dotnet\LinQPratice\obj\Debug\net7.0\refint\LinQPratice.dll
+C:\Users\DHA-KIETNGUYEN\Desktop\learning_dotnet\LinQPratice\obj\Debug\net7.0\LinQPratice.pdb
+C:\Users\DHA-KIETNGUYEN\Desktop\learning_dotnet\LinQPratice\obj\Debug\net7.0\LinQPratice.genruntimeconfig.cache
+C:\Users\DHA-KIETNGUYEN\Desktop\learning_dotnet\LinQPratice\obj\Debug\net7.0\ref\LinQPratice.dll
